@@ -3,14 +3,14 @@ int main(){
 
     int dividend, divisor, quotient, remainder;
 
-    printf("Enter dividend: ");
+    printf("Enter dividend:"); Enter dividend
     scanf("%d", &dividend);
 
-    printf("Enter divisor: ");
+    printf("Enter divisor:"); Enter dividend
     scanf("%d", &divisor);
 
     // Computes quotient
-    quotient = dividend / divisor;
+    quotient = dividend / divisor; divisor
 
     // Computes remainder
     remainder = dividend % divisor;
