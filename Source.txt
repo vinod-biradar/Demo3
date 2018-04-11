@@ -1,22 +1,15 @@
-#include <stdio.h>
-int main(){
+<p>
+This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.
+</p>
 
-    int dividend, divisor, quotient, remainder;
-
-    printf("Enter dividend:"); Enter dividend
-    scanf("%d", &dividend);
-
-    printf("Enter divisor:"); Enter dividend
-    scanf("%d", &divisor);
-
-    // Computes quotient
-    quotient = dividend / divisor; divisor
-
-    // Computes remainder
-    remainder = dividend % divisor;
-
-    printf("Quotient = %d\n", quotient);
-    printf("Remainder = %d", remainder);
-
-    return 0;
-}
+<p>
+This paragraph
+contains         a lot of spaces
+in the source         code,
+but the        browser 
+ignores it.
+</p>
