@@ -1,15 +1,15 @@
 <p>
 This paragraph
 contains a lot of lines
-in the source code,
+in the source code, in the HTMl
 but the browser 
 ignores it.
 </p>
 
 <p>
 This paragraph
-contains         a lot of spaces
-in the source         code,
-but the        browser 
+contains a lot of spaces
+in the source code,
+but the browser will not
 ignores it.
 </p>
