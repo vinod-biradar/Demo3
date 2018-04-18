@@ -3,6 +3,7 @@ int main(){
 
     int dividend, divisor, quotient, remainder;
 
+
     printf("Enter& dividend: "); Enter dividend
     scanf("%d", &dividend);
 
